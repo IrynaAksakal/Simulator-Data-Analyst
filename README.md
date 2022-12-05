@@ -29,4 +29,4 @@
 <br> 
 <br> 
 
-Проект для просмотра сохранен в данном репозитории [Simulator-Data-Analyst]([https://github.com/IrynaAksakal/Data-Analyst-Simulator](https://github.com/IrynaAksakal/Simulator-Data-Analyst)).
+Проект для просмотра сохранен в данном репозитории [Simulator-Data-Analyst](https://github.com/IrynaAksakal/Simulator-Data-Analyst).
