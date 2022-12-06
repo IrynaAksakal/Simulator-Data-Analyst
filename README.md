@@ -13,7 +13,7 @@
 
 ##### Данные об активности пользователей хранятся в таблицах Clickhouse: 
 - feed_actions - таблица с событиями просмотров постов.<br> 
-Структура: user_id, post_id, action, time, gender, age, country, city, os, source, exp_group.<br> 
+Структура: user_id, post_id, action (like/ view), time, gender, age, country, city, os, source, exp_group.<br> 
 - message_actions - таблица с данными об отправке сообщений.<br> 
 Структура: user_id, reciever_id, time, source, exp_group, gender, age, country, city, os.<br>
 ---
